@@ -6,3 +6,6 @@ You take care of a cat. Need to implement a cat photo and his name label. By tak
 
 ##### 2. Space cats
 (Cats are in the space ships, that's why you can't see them). Game that was made completely following a tutorial of java craving channel on Youtube. You are in a space ship, avoid meteorites and earn stars to gain points. After hitting 3 meteorites the game ends.
+
+##### 3. TileGame
+Project that was made following another Youtube tutorial in order to learn basics of tile game development such as rendering world map or walking animation. Only walking and collision with entities is implemented. You can move on grass or sand. 
